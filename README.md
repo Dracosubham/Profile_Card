@@ -25,7 +25,9 @@ This is a simple, modern profile card design created using HTML and CSS. It incl
 
 ## Preview:
 
-![Profile Card UI](preview-image.png)
+![Profile Card UI] 
+![image](https://github.com/user-attachments/assets/f817efdc-8ce0-498c-a542-53e3f30ae679)
+
 
 *(Note: This is just an example preview. Please replace it with an actual image once available.)*
 
